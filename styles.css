@@ -38,3 +38,6 @@
 .start {
   margin-left: 47.5%;
 }
+.playerDisplay {
+  justify-content: space-around;
+}
